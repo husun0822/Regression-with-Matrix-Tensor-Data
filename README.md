@@ -1,4 +1,4 @@
-# Regression with Matrix Tensor Data
+# Regression with Matrix & Tensor Data
 
 This repo is created (Apr. 26th, 2022) as a reservouir of related references on the following topics:
 
